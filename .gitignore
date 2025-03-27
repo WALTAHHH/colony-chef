@@ -58,3 +58,12 @@ Thumbs.db
 .cursorrules.txt
 
 # Cursor settings
+
+# Unity Packages
+/[Pp]ackages/
+
+# Build Reports
+/[Bb]uildReports/
+
+# Asset Store Tools
+/[Aa]ssetStoreTools*
